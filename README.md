@@ -1,3 +1,9 @@
+# Age Pyramid for Wikipedia
+See [R-Code Example](https://github.com/wahlatlas/zensus2022/blob/main/age_pyramid_2022_2011.R) using ggplot2 and more  
+
+<img src="https://github.com/wahlatlas/zensus2022/blob/main/saarland_agepyramid_2022vs2011_r_inkscape_white.svg" width="480px">
+
+
 # Mapping Census 2022 Results – Python Example Code
 See [Jupyter Notebook](https://github.com/wahlatlas/zensus2022/blob/main/beispielcode_karte.ipynb) for details  
   
