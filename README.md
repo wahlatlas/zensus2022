@@ -3,6 +3,9 @@ See [R-Code Example](https://github.com/wahlatlas/zensus2022/blob/main/age_pyram
 
 <img src="https://github.com/wahlatlas/zensus2022/blob/main/saarland_agepyramid_2022vs2011_r_inkscape_white.svg" width="480px">
 
+# Konfession im Saarland, Wikipedia
+See [Jupyter Notebook](https://github.com/wahlatlas/zensus2022/blob/main/Gemeinden_Saarland_Religion.ipynb) using Geopandas  
+<img src="https://github.com/wahlatlas/zensus2022/blob/main/gem_karte_sl_religion.svg" width="640px">  
 
 # Mapping Census 2022 Results – Python Example Code
 See [Jupyter Notebook](https://github.com/wahlatlas/zensus2022/blob/main/beispielcode_karte.ipynb) for details  
